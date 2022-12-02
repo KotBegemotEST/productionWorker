@@ -1,0 +1,10 @@
+C:\Users\buket\source\repos\ProductionWorker\ProductionWorker\bin\Debug\ProductionWorker.exe.config
+C:\Users\buket\source\repos\ProductionWorker\ProductionWorker\bin\Debug\ProductionWorker.exe
+C:\Users\buket\source\repos\ProductionWorker\ProductionWorker\bin\Debug\ProductionWorker.pdb
+C:\Users\buket\source\repos\ProductionWorker\ProductionWorker\obj\Debug\ProductionWorker.csprojAssemblyReference.cache
+C:\Users\buket\source\repos\ProductionWorker\ProductionWorker\obj\Debug\ProductionWorker.Form1.resources
+C:\Users\buket\source\repos\ProductionWorker\ProductionWorker\obj\Debug\ProductionWorker.Properties.Resources.resources
+C:\Users\buket\source\repos\ProductionWorker\ProductionWorker\obj\Debug\ProductionWorker.csproj.GenerateResource.cache
+C:\Users\buket\source\repos\ProductionWorker\ProductionWorker\obj\Debug\ProductionWorker.csproj.CoreCompileInputs.cache
+C:\Users\buket\source\repos\ProductionWorker\ProductionWorker\obj\Debug\ProductionWorker.exe
+C:\Users\buket\source\repos\ProductionWorker\ProductionWorker\obj\Debug\ProductionWorker.pdb
